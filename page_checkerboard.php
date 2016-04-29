@@ -1,0 +1,3 @@
+<?php
+/**
+* Creating Checkerboard template 
